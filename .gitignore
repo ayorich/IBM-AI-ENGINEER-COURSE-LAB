@@ -13,3 +13,5 @@ AI Capstone Project with Deep Learning/CNN Model Development/images_dataSAT/**
 **/images_dataSAT
 **/img
 **/data
+**/.vector_cache
+**/__pycache__
