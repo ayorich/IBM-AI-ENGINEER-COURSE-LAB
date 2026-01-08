@@ -10,6 +10,7 @@ AI Capstone Project with Deep Learning/CNN Model Development/images_dataSAT/**
 **.keras
 **.pth
 **.pt
+**.pkl
 **/images_dataSAT/**
 **/images_dataSAT
 **/img
