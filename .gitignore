@@ -13,6 +13,7 @@ AI Capstone Project with Deep Learning/CNN Model Development/images_dataSAT/**
 **.pkl
 **.zip
 **.tar.gz
+**.gz
 **/images_dataSAT/**
 **/images_dataSAT
 **/img
@@ -21,3 +22,5 @@ AI Capstone Project with Deep Learning/CNN Model Development/images_dataSAT/**
 **/__pycache__
 **.csv
 extracted_model/
+ppov3new1/
+ppov3new_bad1/
